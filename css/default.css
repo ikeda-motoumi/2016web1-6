@@ -66,6 +66,18 @@ dt{
   border-collapse:collapse;
 }
 
-th,td{
+th{
   border:1px solid blue;
+  background-color:#819FF7;
+  padding:5px;
+  width:100px;
+  text-aline:center;
 }
+
+td{
+  border:1px solid blue;
+  padding:5px;
+  width:80px;
+  text-aline:right;
+}
+
