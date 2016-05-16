@@ -13,8 +13,8 @@ body{
   margin-right: 30px;
 }
 
-.plane{
+.plane:after{
   content: "";
-  clear;
+  clear: both;
   display: block;
 }
