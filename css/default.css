@@ -33,9 +33,6 @@ dt{
   font-weight: bold;
 }
 
-.botan{
-  margin:0auto;
-}
 .btn{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
@@ -64,3 +61,11 @@ dt{
   color: white;
 }
 
+#ingredient{
+  border:2px solid blue;
+  border-collapse:collapse;
+}
+
+th,td{
+  border:1pxsolid  blue;
+}
