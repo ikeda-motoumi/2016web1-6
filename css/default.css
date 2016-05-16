@@ -1,1 +1,14 @@
+body{
+  background-color: #A9E2F3;
+}
 
+#main{
+  padding: 40px 80px;
+  border: blue 2px solid;
+  background-color: white;
+}
+
+.photo{
+  float: left;
+  margin-right: 30px;
+}
