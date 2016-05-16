@@ -15,6 +15,6 @@ body{
 
 .plane{
   content: "";
-  clear: both;
+  clear;
   display: block;
 }
