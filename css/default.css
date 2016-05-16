@@ -32,3 +32,32 @@ dt{
   float: left;
   font-weight: bold;
 }
+
+.btn{
+  -webkit-appearance: none;
+  -webkit-border-radius: 0;
+  margin: 10px;
+  width: 100px;
+  height 40px;
+  padding: 10px;
+  border: none;
+  font-size: 16px;
+}
+
+.btn:hover{
+  opacity: 0.6;
+}
+
+.btn:active{
+  opacity: 1.5;
+}
+
+.btn-submit{
+  background-color: white;
+}
+
+.btn-reset{
+  background-color: black;
+  color: white;
+}
+
