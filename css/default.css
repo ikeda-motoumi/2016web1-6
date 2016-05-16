@@ -3,6 +3,7 @@ body{
 }
 
 #main{
+  font-weight: bold;
   width: 900px;
   margin: 40px auto;
   padding: 30px 80px;
