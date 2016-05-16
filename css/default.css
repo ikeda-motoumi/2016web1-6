@@ -8,7 +8,7 @@ body{
   margin: 40px auto;
   padding: 30px 80px;
   border: blue 2px solid;
-  background-color: white;
+  background-color: silver;
 }
 
 .photo{
@@ -36,7 +36,7 @@ dt{
 .btn{
   -webkit-appearance: none;
   -webkit-border-radius: 0;
-  margin: 10px auto;
+  margin: 10px;
   width: 100px;
   height 40px;
   padding: 10px;
